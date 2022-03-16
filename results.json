@@ -1,0 +1,980 @@
+{
+    "level": "info",
+    "message": {
+        "url":"https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd",
+        "test_duration":1800000,
+        "available_qualities": [
+            {
+                "id": "2500",
+                "bitrate": 3134488
+            },
+            {
+                "id": "4000",
+                "bitrate": 4952892
+            },
+            {
+                "id": "8000",
+                "bitrate": 9914554
+            },
+            {
+                "id": "200",
+                "bitrate": 254320
+            },
+            {
+                "id": "400",
+                "bitrate": 507246
+            },
+            {
+                "id": "600",
+                "bitrate": 759798
+            },
+            {
+                "id": "1000",
+                "bitrate": 1254758
+            },
+            {
+                "id": "800",
+                "bitrate": 1013310
+            },
+            {
+                "id": "1500",
+                "bitrate": 1883700
+            },
+            {
+                "id": "12000",
+                "bitrate": 14931538
+            }
+        ],
+        "datas":{
+            "GOOD_3G": [
+                {
+                    "joinTime": "957",
+                    "states02s": {
+                        "currentBitrate": 3134488,
+                        "elapsedTime": 0,
+                        "videoBufferLength": 0
+                    },
+                    "states12s": {
+                        "currentBitrate": 1883700,
+                        "elapsedTime": 11.643798,
+                        "videoBufferLength": 7.6457049999999995
+                    },
+                    "states22s": {
+                        "currentBitrate": 1013310,
+                        "elapsedTime": 20.845786,
+                        "videoBufferLength": 8.849165
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 1.804281,
+                        "videoBufferLength": 1.812081
+                    }
+                },
+                {
+                    "joinTime": "941",
+                    "states02s": {
+                        "currentBitrate": 3134488,
+                        "elapsedTime": 0,
+                        "videoBufferLength": 0
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 10.821566,
+                        "videoBufferLength": 6.823905
+                    },
+                    "states22s": {
+                        "currentBitrate": 3134488,
+                        "elapsedTime": 20.331778,
+                        "videoBufferLength": 8.339524
+                    },
+                    "states2s": {
+                        "currentBitrate": 1254758,
+                        "elapsedTime": 1.822429,
+                        "videoBufferLength": 1.824565
+                    }
+                },
+                {
+                    "joinTime": "941",
+                    "states02s": {
+                        "currentBitrate": 3134488,
+                        "elapsedTime": 0,
+                        "videoBufferLength": 0
+                    },
+                    "states12s": {
+                        "currentBitrate": 3134488,
+                        "elapsedTime": 11.846481,
+                        "videoBufferLength": 7.848697
+                    },
+                    "states22s": {
+                        "currentBitrate": 3134488,
+                        "elapsedTime": 21.858733,
+                        "videoBufferLength": 7.862390999999999
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 1.831058,
+                        "videoBufferLength": 1.832943
+                    }
+                },
+                {
+                    "joinTime": "949",
+                    "states02s": {
+                        "currentBitrate": 4952892,
+                        "elapsedTime": 0,
+                        "videoBufferLength": 0
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 11.58055,
+                        "videoBufferLength": 7.582542999999999
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 21.34357,
+                        "videoBufferLength": 7.345369000000002
+                    },
+                    "states2s": {
+                        "currentBitrate": 1013310,
+                        "elapsedTime": 1.832663,
+                        "videoBufferLength": 1.836445
+                    }
+                },
+                {
+                    "joinTime": "954",
+                    "states02s": {
+                        "currentBitrate": 4952892,
+                        "elapsedTime": 0,
+                        "videoBufferLength": 0
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 10.56653,
+                        "videoBufferLength": 6.5684629999999995
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 20.578241,
+                        "videoBufferLength": 6.581752000000002
+                    },
+                    "states2s": {
+                        "currentBitrate": 1883700,
+                        "elapsedTime": 1.809125,
+                        "videoBufferLength": 1.81244
+                    }
+                },
+                {
+                    "joinTime": "932",
+                    "states02s": {
+                        "currentBitrate": 4952892,
+                        "elapsedTime": 0,
+                        "videoBufferLength": 0
+                    },
+                    "states12s": {
+                        "currentBitrate": 1883700,
+                        "elapsedTime": 11.842669,
+                        "videoBufferLength": 7.845586000000001
+                    },
+                    "states22s": {
+                        "currentBitrate": 3134488,
+                        "elapsedTime": 18.544762,
+                        "videoBufferLength": 8.546413999999999
+                    },
+                    "states2s": {
+                        "currentBitrate": 3134488,
+                        "elapsedTime": 1.839887,
+                        "videoBufferLength": 1.841731
+                    }
+                },
+                {
+                    "joinTime": "964",
+                    "states02s": {
+                        "currentBitrate": 4952892,
+                        "elapsedTime": 0,
+                        "videoBufferLength": 0
+                    },
+                    "states12s": {
+                        "currentBitrate": 1883700,
+                        "elapsedTime": 7.921257,
+                        "videoBufferLength": 7.921257
+                    },
+                    "states22s": {
+                        "currentBitrate": 1013310,
+                        "elapsedTime": 15.748183,
+                        "videoBufferLength": 7.7522459999999995
+                    },
+                    "states2s": {
+                        "currentBitrate": 3134488,
+                        "elapsedTime": 1.813276,
+                        "videoBufferLength": 1.816656
+                    }
+                },
+                {
+                    "joinTime": "941",
+                    "states02s": {
+                        "currentBitrate": 4952892,
+                        "elapsedTime": 0,
+                        "videoBufferLength": 0
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 11.533668,
+                        "videoBufferLength": 7.535885
+                    },
+                    "states22s": {
+                        "currentBitrate": 1883700,
+                        "elapsedTime": 19.990441,
+                        "videoBufferLength": 7.990441000000001
+                    },
+                    "states2s": {
+                        "currentBitrate": 3134488,
+                        "elapsedTime": 1.830399,
+                        "videoBufferLength": 1.832687
+                    }
+                },
+                {
+                    "joinTime": "939",
+                    "states02s": {
+                        "currentBitrate": 4952892,
+                        "elapsedTime": 0,
+                        "videoBufferLength": 0
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 11.788832,
+                        "videoBufferLength": 7.792463
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 21.441441,
+                        "videoBufferLength": 9.446682
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 1.771279,
+                        "videoBufferLength": 1.776005
+                    }
+                },
+                {
+                    "joinTime": "946",
+                    "states02s": {
+                        "currentBitrate": 4952892,
+                        "elapsedTime": 0,
+                        "videoBufferLength": 0
+                    },
+                    "states12s": {
+                        "currentBitrate": 4952892,
+                        "elapsedTime": 11.826629,
+                        "videoBufferLength": 7.8290489999999995
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 17.874555,
+                        "videoBufferLength": 7.877603000000001
+                    },
+                    "states2s": {
+                        "currentBitrate": 3134488,
+                        "elapsedTime": 1.813624,
+                        "videoBufferLength": 1.817042
+                    }
+                }
+            ],
+            "REGULAR_4G": [
+                {
+                    "joinTime": "294",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.054351,
+                        "videoBufferLength": 0.063695
+                    },
+                    "states12s": {
+                        "currentBitrate": 3134488,
+                        "elapsedTime": 12.07331,
+                        "videoBufferLength": 8.075542
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.090838,
+                        "videoBufferLength": 8.094083999999999
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.066008,
+                        "videoBufferLength": 2.067903
+                    }
+                },
+                {
+                    "joinTime": "288",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.036713,
+                        "videoBufferLength": 0.095915
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.113162,
+                        "videoBufferLength": 8.115333
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.131384,
+                        "videoBufferLength": 8.133551
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.102224,
+                        "videoBufferLength": 2.104078
+                    }
+                },
+                {
+                    "joinTime": "289",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.028026,
+                        "videoBufferLength": 0.045651
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.073912,
+                        "videoBufferLength": 8.079357
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.089201,
+                        "videoBufferLength": 8.091367000000002
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.065014,
+                        "videoBufferLength": 2.068367
+                    }
+                },
+                {
+                    "joinTime": "285",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.016494,
+                        "videoBufferLength": 0.04496
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.062658,
+                        "videoBufferLength": 8.067224
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.082901,
+                        "videoBufferLength": 8.089219
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.051128,
+                        "videoBufferLength": 2.054532
+                    }
+                },
+                {
+                    "joinTime": "294",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.043368,
+                        "videoBufferLength": 0.053533
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.07709,
+                        "videoBufferLength": 8.131935
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.139364,
+                        "videoBufferLength": 8.141305
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.070273,
+                        "videoBufferLength": 2.073601
+                    }
+                },
+                {
+                    "joinTime": "281",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.050722,
+                        "videoBufferLength": 0.06261
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.079665,
+                        "videoBufferLength": 8.081825
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.0829,
+                        "videoBufferLength": 8.084706
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.076751,
+                        "videoBufferLength": 2.078798
+                    }
+                },
+                {
+                    "joinTime": "299",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.030454,
+                        "videoBufferLength": 0.040876
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.070322,
+                        "videoBufferLength": 6.074448
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.084063,
+                        "videoBufferLength": 8.088429999999999
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.053629,
+                        "videoBufferLength": 2.055989
+                    }
+                },
+                {
+                    "joinTime": "283",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.018578,
+                        "videoBufferLength": 0.030149
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.066427,
+                        "videoBufferLength": 8.079185
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.088885,
+                        "videoBufferLength": 8.091048
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.043715,
+                        "videoBufferLength": 2.045822
+                    }
+                },
+                {
+                    "joinTime": "278",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.047117,
+                        "videoBufferLength": 0.062734
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.088281,
+                        "videoBufferLength": 8.091919
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.09597,
+                        "videoBufferLength": 8.097904
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.073833,
+                        "videoBufferLength": 2.076273
+                    }
+                },
+                {
+                    "joinTime": "301",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.150705,
+                        "videoBufferLength": 0.159201
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.173965,
+                        "videoBufferLength": 6.175965
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.179827,
+                        "videoBufferLength": 6.181649
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.162462,
+                        "videoBufferLength": 2.164208
+                    }
+                }
+            ],
+            "SLOW_3G": [
+                {
+                    "joinTime": "3995",
+                    "states02s": {
+                        "currentBitrate": 254320,
+                        "elapsedTime": 0.71419,
+                        "videoBufferLength": 0.716266
+                    },
+                    "states12s": {
+                        "currentBitrate": 507246,
+                        "elapsedTime": 12.734331,
+                        "videoBufferLength": 6.740335
+                    },
+                    "states22s": {
+                        "currentBitrate": 759798,
+                        "elapsedTime": 22.75158,
+                        "videoBufferLength": 6.756824000000002
+                    },
+                    "states2s": {
+                        "currentBitrate": 507246,
+                        "elapsedTime": 2.726534,
+                        "videoBufferLength": 2.730045
+                    }
+                },
+                {
+                    "joinTime": "3611",
+                    "states02s": {
+                        "currentBitrate": 507246,
+                        "elapsedTime": 0.002157,
+                        "videoBufferLength": 0.004293
+                    },
+                    "states12s": {
+                        "currentBitrate": 507246,
+                        "elapsedTime": 11.994128,
+                        "videoBufferLength": 7.997503
+                    },
+                    "states22s": {
+                        "currentBitrate": 759798,
+                        "elapsedTime": 22.009743,
+                        "videoBufferLength": 8.011714000000001
+                    },
+                    "states2s": {
+                        "currentBitrate": 507246,
+                        "elapsedTime": 1.985452,
+                        "videoBufferLength": 1.988383
+                    }
+                },
+                {
+                    "joinTime": "1027",
+                    "states02s": {
+                        "currentBitrate": 507246,
+                        "elapsedTime": 0.038912,
+                        "videoBufferLength": 0.041378
+                    },
+                    "states12s": {
+                        "currentBitrate": 507246,
+                        "elapsedTime": 12.057033,
+                        "videoBufferLength": 8.059643
+                    },
+                    "states22s": {
+                        "currentBitrate": 1013310,
+                        "elapsedTime": 22.062251,
+                        "videoBufferLength": 8.064062
+                    },
+                    "states2s": {
+                        "currentBitrate": 759798,
+                        "elapsedTime": 2.047363,
+                        "videoBufferLength": 2.050106
+                    }
+                },
+                {
+                    "joinTime": "933",
+                    "states02s": {
+                        "currentBitrate": 759798,
+                        "elapsedTime": 0.061752,
+                        "videoBufferLength": 0.06399
+                    },
+                    "states12s": {
+                        "currentBitrate": 759798,
+                        "elapsedTime": 12.07783,
+                        "videoBufferLength": 6.079917999999999
+                    },
+                    "states22s": {
+                        "currentBitrate": 759798,
+                        "elapsedTime": 22.090987,
+                        "videoBufferLength": 8.092853999999999
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.065006,
+                        "videoBufferLength": 2.068631
+                    }
+                },
+                {
+                    "joinTime": "946",
+                    "states02s": {
+                        "currentBitrate": 1013310,
+                        "elapsedTime": 0.067675,
+                        "videoBufferLength": 0.070223
+                    },
+                    "states12s": {
+                        "currentBitrate": 254320,
+                        "elapsedTime": 12.087343,
+                        "videoBufferLength": 6.089715999999999
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.106472,
+                        "videoBufferLength": 8.11203
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.078939,
+                        "videoBufferLength": 2.082824
+                    }
+                },
+                {
+                    "joinTime": "950",
+                    "states02s": {
+                        "currentBitrate": 1254758,
+                        "elapsedTime": 0,
+                        "videoBufferLength": 0
+                    },
+                    "states12s": {
+                        "currentBitrate": 759798,
+                        "elapsedTime": 11.964978,
+                        "videoBufferLength": 7.969649
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 21.981271,
+                        "videoBufferLength": 7.983217
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 1.952156,
+                        "videoBufferLength": 1.954076
+                    }
+                },
+                {
+                    "joinTime": "954",
+                    "states02s": {
+                        "currentBitrate": 1254758,
+                        "elapsedTime": 0,
+                        "videoBufferLength": 0
+                    },
+                    "states12s": {
+                        "currentBitrate": 1254758,
+                        "elapsedTime": 11.959577,
+                        "videoBufferLength": 7.961570999999999
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 21.975058,
+                        "videoBufferLength": 7.978615999999999
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 1.953681,
+                        "videoBufferLength": 1.957982
+                    }
+                },
+                {
+                    "joinTime": "941",
+                    "states02s": {
+                        "currentBitrate": 1883700,
+                        "elapsedTime": 0.013116,
+                        "videoBufferLength": 0.022598
+                    },
+                    "states12s": {
+                        "currentBitrate": 3134488,
+                        "elapsedTime": 12.045368,
+                        "videoBufferLength": 6.047274
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.059157,
+                        "videoBufferLength": 8.060991000000001
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.035836,
+                        "videoBufferLength": 2.039568
+                    }
+                },
+                {
+                    "joinTime": "955",
+                    "states02s": {
+                        "currentBitrate": 1883700,
+                        "elapsedTime": 0.020356,
+                        "videoBufferLength": 0.024629
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 9.594803,
+                        "videoBufferLength": 7.596819
+                    },
+                    "states22s": {
+                        "currentBitrate": 1883700,
+                        "elapsedTime": 19.604139,
+                        "videoBufferLength": 7.606044000000001
+                    },
+                    "states2s": {
+                        "currentBitrate": 759798,
+                        "elapsedTime": 2.028861,
+                        "videoBufferLength": 2.031767
+                    }
+                },
+                {
+                    "joinTime": "916",
+                    "states02s": {
+                        "currentBitrate": 1883700,
+                        "elapsedTime": 0.016198,
+                        "videoBufferLength": 0.018361
+                    },
+                    "states12s": {
+                        "currentBitrate": 3134488,
+                        "elapsedTime": 12.033064,
+                        "videoBufferLength": 6.042165000000001
+                    },
+                    "states22s": {
+                        "currentBitrate": 507246,
+                        "elapsedTime": 22.046168,
+                        "videoBufferLength": 8.050992999999998
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.012758,
+                        "videoBufferLength": 2.01661
+                    }
+                }
+            ],
+            "WIFI": [
+                {
+                    "joinTime": "291",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.017606,
+                        "videoBufferLength": 0.028923
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.057175,
+                        "videoBufferLength": 6.059373000000001
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.074626,
+                        "videoBufferLength": 8.076539
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.043358,
+                        "videoBufferLength": 2.045215
+                    }
+                },
+                {
+                    "joinTime": "297",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.024613,
+                        "videoBufferLength": 0.035921
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.061573,
+                        "videoBufferLength": 8.070411
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.075757,
+                        "videoBufferLength": 8.084358000000002
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.050193,
+                        "videoBufferLength": 2.052526
+                    }
+                },
+                {
+                    "joinTime": "285",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.192573,
+                        "videoBufferLength": 0.201049
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.224508,
+                        "videoBufferLength": 8.22697
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.23673,
+                        "videoBufferLength": 8.238983000000001
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.207697,
+                        "videoBufferLength": 2.210033
+                    }
+                },
+                {
+                    "joinTime": "290",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.046277,
+                        "videoBufferLength": 0.052986
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.067366,
+                        "videoBufferLength": 8.071582
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.091118,
+                        "videoBufferLength": 8.095433
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.057596,
+                        "videoBufferLength": 2.061468
+                    }
+                },
+                {
+                    "joinTime": "297",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.072892,
+                        "videoBufferLength": 0.091712
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.127201,
+                        "videoBufferLength": 6.135369000000001
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.143756,
+                        "videoBufferLength": 8.145667
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.10582,
+                        "videoBufferLength": 2.10748
+                    }
+                },
+                {
+                    "joinTime": "299",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.018758,
+                        "videoBufferLength": 0.039143
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.044407,
+                        "videoBufferLength": 6.051159999999999
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.066883,
+                        "videoBufferLength": 8.068931
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.040842,
+                        "videoBufferLength": 2.042607
+                    }
+                },
+                {
+                    "joinTime": "295",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.025871,
+                        "videoBufferLength": 0.038805
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.051915,
+                        "videoBufferLength": 8.065599
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.070307,
+                        "videoBufferLength": 8.072158000000002
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.046998,
+                        "videoBufferLength": 2.050471
+                    }
+                },
+                {
+                    "joinTime": "273",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.017451,
+                        "videoBufferLength": 0.024788
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.038099,
+                        "videoBufferLength": 8.039959
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.053127,
+                        "videoBufferLength": 8.055992
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.029794,
+                        "videoBufferLength": 2.034639
+                    }
+                },
+                {
+                    "joinTime": "283",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.020856,
+                        "videoBufferLength": 0.037853
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.045111,
+                        "videoBufferLength": 8.051285
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.063706,
+                        "videoBufferLength": 8.067305999999999
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.039934,
+                        "videoBufferLength": 2.04201
+                    }
+                },
+                {
+                    "joinTime": "293",
+                    "states02s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 0.112694,
+                        "videoBufferLength": 0.118074
+                    },
+                    "states12s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 12.132918,
+                        "videoBufferLength": 6.135044000000001
+                    },
+                    "states22s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 22.146043,
+                        "videoBufferLength": 8.147651
+                    },
+                    "states2s": {
+                        "currentBitrate": 14931538,
+                        "elapsedTime": 2.123869,
+                        "videoBufferLength": 2.128662
+                    }
+                }
+            ]
+        }
+    },
+    "time": "14/Mar/2022:18:04:57 +0100"
+}
